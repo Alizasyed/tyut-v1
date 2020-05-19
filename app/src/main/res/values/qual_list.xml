@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="qual_List">
+        <item> Business Administration </item>
+        <item> Computer Science </item>
+        <item> Accounting and Finance </item>
+        <item> English </item>
+        <item> Software Engineering </item>
+        <item> Data Science </item>
+        <item> Computer Engineering </item>
+        <item> Civil Engineering </item>
+        <item> Mechanical Engineering </item>
+        <item> Mathematics </item>
+        <item> Arts </item>
+        <item> Biology </item>
+
+    </string-array>
+
+
+</resources>

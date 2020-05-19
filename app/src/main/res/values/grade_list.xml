@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="gradelist">
+        <item> Bachelors </item>
+        <item> FSC </item>
+        <item> FA </item>
+        <item> Alevels </item>
+        <item> Olevels </item>
+        <item> 10 </item>
+        <item> 9 </item>
+        <item> 8 </item>
+        <item> 7 </item>
+
+
+    </string-array>
+    
+    
+</resources>

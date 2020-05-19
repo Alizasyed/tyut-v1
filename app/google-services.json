@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432772980362",
+    "firebase_url": "https://fluid-guide-271018.firebaseio.com",
+    "project_id": "fluid-guide-271018",
+    "storage_bucket": "fluid-guide-271018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432772980362:android:6bb5dbfa9e264270351773",
+        "android_client_info": {
+          "package_name": "com.lumos.durshaltyut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432772980362-56n9mu95e6gigi6q6bcuvvem2bila33s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lumos.durshaltyut",
+            "certificate_hash": "fe4346be384307311be2737b61b5edc5bd531b89"
+          }
+        },
+        {
+          "client_id": "432772980362-s0h1peg549vuk9t2i9518l53i3hol3l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDXGWWKw-BcrF9YmkDI-gZ_1aaaYwNTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432772980362-s0h1peg549vuk9t2i9518l53i3hol3l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

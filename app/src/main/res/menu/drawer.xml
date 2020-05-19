@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    tools:showIn="navigation_View">
+
+
+            <group android:checkableBehavior="single">
+                <item android:contentDescription="@string/profile"
+                    android:id="@+id/profile"
+                    android:iconTint="@color/cardview_dark_background"
+                    android:title="Profile" />
+                <item
+                    android:contentDescription="Session History"
+                    android:id="@+id/bookings"
+                    android:title="Session History" />
+                <item
+                    android:contentDescription="Catelog"
+                    android:id="@+id/catalog"
+                    android:title="Courses" />
+                <item
+                    android:contentDescription="Your Wallet"
+                    android:id="@+id/wallet"
+                    android:title="Tyut Wallet" />
+            </group>
+
+
+            <group android:menuCategory="secondary" android:checkableBehavior="single"  >
+                <item
+
+                    android:id="@+id/settings"
+                    android:title="Settings" />
+                <item
+                    android:id="@+id/help"
+                    android:title="Help" />
+                <item
+                    android:id="@+id/nav_refer"
+                    android:title="Refer a Friend" />
+                <item
+                    android:id="@+id/logout"
+                    android:title="Log Out" />
+            </group>
+</menu>
+
+
+
+
+
+
+
+
+
+
+
